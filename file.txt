@@ -1,0 +1,6 @@
+first name:_samuel
+last name:_degu
+id:_1296
+year:2013_
+section:_b
+semester:1

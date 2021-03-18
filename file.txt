@@ -1,6 +1,7 @@
-first name:_samuel
+git is first name:_samuel
 last name:_degu
 id:_1296
 year:2013_
 section:_b
 semester:1
+git is vcs
